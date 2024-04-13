@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikas Dod</h1>
 <h3 align="center">Data Scientist & Data Engineer | MS in IT Management, UT Dallas | Passionate about ML, NLP, & cloud solutions | Always exploring the cutting edge of tech.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzakk1&label=Profile%20views&color=f86f03&style=flat" alt="dzakk1" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdod&label=Profile%20views&color=0e75b6&style=flat" alt="vikasdod" /> </p>
 
 - 🔭 I’m currently working on **Data Science & AWS Projects**
