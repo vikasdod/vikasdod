@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently pursuing  **AWS SOLUTION ARCHITECTURE CERTIFICATION**
 
-- 📝 I regularly write articles on [https://medium.com/@vikasdod](https://medium.com/@vikasdod)
+- 📝 I recently started writing articles on [https://medium.com/@vikasdod](https://medium.com/@vikasdod)
 
 - 💬 You can ask me about **Python, Data Science, Data Visualization, Data Analysis, AWS**
 
