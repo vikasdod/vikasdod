@@ -11,7 +11,7 @@
 
 
 
-- 📝 I regularly write articles on [https://medium.com/@vikasdod](https://medium.com/@vikasdod)
+- 📝 I recently started writing articles on [https://medium.com/@vikasdod](https://medium.com/@vikasdod)
 
 - 💬 Ask me about **Python, Data Science, Data Visualization, Data Analysis, AWS**
 
