@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Data Science & AWS Projects**
 
-- 🌱 I’m currently pursuing  **AWS SOLUTION ARCHITECTURE CERTIFICATION**
 
 
 
