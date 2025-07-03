@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Dod</h1>
+<h1 align="center">Hi 👋, I'm V D </h1>
 
 <h3 align="center">Data Scientist | MS in IT Management, UT Dallas | Mtech+Btech , IIT-BHU|</h3>
 <h3 align="center"> Passionate about ML, NLP, & cloud solutions |</h3>
