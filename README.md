@@ -10,11 +10,11 @@
 
 
 
-- 📝 I recently started writing articles on [https://medium.com/@vikasdod](https://medium.com/@vikasdod)
+- 📝 I recently started writing articles on
 
 - 💬 Ask me about **Python, Data Science, Data Visualization, Data Analysis, AWS**
 
-- 📫 How to reach me **vikasdodpatil@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I think it is that, even though I've transitioned into data science, I still have a passion for performing physics experiments in my spare time. Whether it's playing with pendulums or experimenting with electromagnets, I love seeing theoretical physics come to life outside of the classroom!**
 
